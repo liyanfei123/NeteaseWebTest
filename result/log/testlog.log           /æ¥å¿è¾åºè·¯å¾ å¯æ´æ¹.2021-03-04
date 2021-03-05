@@ -1,0 +1,229 @@
+2021-03-04 21:04:52  [ main:0 ] - [ INFO ]  ----------测试用例开始执行----------
+2021-03-04 21:05:03  [ main:10502 ] - [ INFO ]  文件 AllTestCase.xlsx 中，总的测试用例数：2
+2021-03-04 21:05:03  [ main:10515 ] - [ INFO ]  测试用例: share 暂无需运行
+2021-03-04 21:05:03  [ main:10518 ] - [ INFO ]  运行测试用例: collect; 测试用例的详细信息: 完成商品的收藏及取消，在未登录的情况下，应跳转到登陆页面，在登陆的情况，可以正常收藏并取消
+2021-03-04 21:05:03  [ main:10520 ] - [ INFO ]  测试用例: collect, 总测试步骤数为: 2
+2021-03-04 21:05:03  [ main:10523 ] - [ INFO ]  当前测试步骤: 输入搜索框
+2021-03-04 21:05:03  [ main:10536 ] - [ INFO ]  执行测试步骤  识别方式: input.yx-cp-searchInput; 操作: input; 测试数据: 黑猪肉
+属于测试用例: collect
+2021-03-04 21:05:03  [ main:10536 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: input.yx-cp-searchInput
+2021-03-04 21:05:03  [ main:10848 ] - [ INFO ]  测试步骤: 输入搜索框 成功！
+2021-03-04 21:05:03  [ main:10851 ] - [ INFO ]  当前测试步骤: 确认搜索
+2021-03-04 21:05:03  [ main:10854 ] - [ INFO ]  执行测试步骤  识别方式: span.yx-cp-searchButtonName; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 21:05:03  [ main:10855 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: span.yx-cp-searchButtonName
+2021-03-04 21:05:04  [ main:11503 ] - [ INFO ]  测试步骤: 确认搜索 成功！
+2021-03-04 21:05:04  [ main:11506 ] - [ INFO ]  测试用例: collect 执行成功！
+2021-03-04 21:11:41  [ main:0 ] - [ INFO ]  ----------测试用例开始执行----------
+2021-03-04 21:11:52  [ main:11056 ] - [ INFO ]  文件 AllTestCase.xlsx 中，总的测试用例数：2
+2021-03-04 21:11:52  [ main:11065 ] - [ INFO ]  测试用例: share 暂无需运行
+2021-03-04 21:11:52  [ main:11067 ] - [ INFO ]  运行测试用例: collect; 测试用例的详细信息: 完成商品的收藏及取消，在未登录的情况下，应跳转到登陆页面，在登陆的情况，可以正常收藏并取消
+2021-03-04 21:11:52  [ main:11068 ] - [ INFO ]  测试用例: collect, 总测试步骤数为: 2
+2021-03-04 21:11:52  [ main:11070 ] - [ INFO ]  当前测试步骤: 输入搜索框
+2021-03-04 21:11:52  [ main:11080 ] - [ INFO ]  执行测试步骤  识别方式: input.yx-cp-searchInput; 操作: input; 测试数据: 黑猪肉
+属于测试用例: collect
+2021-03-04 21:11:52  [ main:11081 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: input.yx-cp-searchInput
+2021-03-04 21:11:52  [ main:11382 ] - [ INFO ]  测试步骤: 输入搜索框 成功！
+2021-03-04 21:11:52  [ main:11384 ] - [ INFO ]  当前测试步骤: 确认搜索
+2021-03-04 21:11:52  [ main:11386 ] - [ INFO ]  执行测试步骤  识别方式: span.yx-cp-searchButtonName; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 21:11:52  [ main:11387 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: span.yx-cp-searchButtonName
+2021-03-04 21:11:53  [ main:11976 ] - [ INFO ]  测试步骤: 确认搜索 成功！
+2021-03-04 21:11:53  [ main:11977 ] - [ INFO ]  测试用例: collect 执行成功！
+2021-03-04 21:15:52  [ main:0 ] - [ INFO ]  ----------测试用例开始执行----------
+2021-03-04 21:16:03  [ main:10763 ] - [ INFO ]  文件 AllTestCase.xlsx 中，总的测试用例数：2
+2021-03-04 21:16:03  [ main:10781 ] - [ INFO ]  测试用例: share 暂无需运行
+2021-03-04 21:16:03  [ main:10783 ] - [ INFO ]  运行测试用例: collect; 测试用例的详细信息: 完成商品的收藏及取消，在未登录的情况下，应跳转到登陆页面，在登陆的情况，可以正常收藏并取消
+2021-03-04 21:16:03  [ main:10784 ] - [ INFO ]  测试用例: collect, 总测试步骤数为: 2
+2021-03-04 21:16:03  [ main:10786 ] - [ INFO ]  当前测试步骤: 输入搜索框
+2021-03-04 21:16:03  [ main:10798 ] - [ INFO ]  执行测试步骤  识别方式: input.yx-cp-searchInput; 操作: input; 测试数据: 黑猪肉
+属于测试用例: collect
+2021-03-04 21:16:03  [ main:10798 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: input.yx-cp-searchInput
+2021-03-04 21:16:03  [ main:11128 ] - [ INFO ]  测试步骤: 输入搜索框 成功！
+2021-03-04 21:16:03  [ main:11131 ] - [ INFO ]  当前测试步骤: 确认搜索
+2021-03-04 21:16:03  [ main:11133 ] - [ INFO ]  执行测试步骤  识别方式: span.yx-cp-searchButtonName; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 21:16:03  [ main:11134 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: span.yx-cp-searchButtonName
+2021-03-04 21:16:04  [ main:11801 ] - [ INFO ]  测试步骤: 确认搜索 成功！
+2021-03-04 21:16:04  [ main:11804 ] - [ INFO ]  测试用例: collect 执行成功！
+2021-03-04 21:18:47  [ main:0 ] - [ INFO ]  ----------测试用例开始执行----------
+2021-03-04 21:18:58  [ main:10623 ] - [ INFO ]  文件 AllTestCase.xlsx 中，总的测试用例数：2
+2021-03-04 21:18:58  [ main:10637 ] - [ INFO ]  测试用例: share 暂无需运行
+2021-03-04 21:18:58  [ main:10639 ] - [ INFO ]  运行测试用例: collect; 测试用例的详细信息: 完成商品的收藏及取消，在未登录的情况下，应跳转到登陆页面，在登陆的情况，可以正常收藏并取消
+2021-03-04 21:18:58  [ main:10640 ] - [ INFO ]  测试用例: collect, 总测试步骤数为: 2
+2021-03-04 21:18:58  [ main:10646 ] - [ INFO ]  当前测试步骤: 输入搜索框
+2021-03-04 21:18:58  [ main:10661 ] - [ INFO ]  执行测试步骤  识别方式: input.yx-cp-searchInput; 操作: input; 测试数据: 黑猪肉
+属于测试用例: collect
+2021-03-04 21:18:58  [ main:10661 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: input.yx-cp-searchInput
+2021-03-04 21:18:59  [ main:11802 ] - [ INFO ]  测试步骤: 输入搜索框 成功！
+2021-03-04 21:18:59  [ main:11805 ] - [ INFO ]  当前测试步骤: 确认搜索
+2021-03-04 21:18:59  [ main:11808 ] - [ INFO ]  执行测试步骤  识别方式: span.yx-cp-searchButtonName; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 21:18:59  [ main:11809 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: span.yx-cp-searchButtonName
+2021-03-04 21:19:02  [ main:14698 ] - [ INFO ]  测试步骤: 确认搜索 成功！
+2021-03-04 21:19:02  [ main:14700 ] - [ INFO ]  测试用例: collect 执行成功！
+2021-03-04 22:27:44  [ main:0 ] - [ INFO ]  ----------测试用例开始执行----------
+2021-03-04 22:27:54  [ main:9715 ] - [ INFO ]  文件 AllTestCase.xlsx 中，总的测试用例数：2
+2021-03-04 22:27:54  [ main:9732 ] - [ INFO ]  测试用例: share 暂无需运行
+2021-03-04 22:27:54  [ main:9733 ] - [ INFO ]  运行测试用例: collect; 测试用例的详细信息: 完成商品的收藏及取消，在未登录的情况下，应跳转到登陆页面，在登陆的情况，可以正常收藏并取消
+2021-03-04 22:27:54  [ main:9735 ] - [ INFO ]  测试用例: collect, 总测试步骤数为: 5
+2021-03-04 22:27:54  [ main:9737 ] - [ INFO ]  当前测试步骤: 输入搜索框
+2021-03-04 22:27:54  [ main:9750 ] - [ INFO ]  执行测试步骤  识别方式: input.yx-cp-searchInput; 操作: input; 测试数据: 黑猪肉
+属于测试用例: collect
+2021-03-04 22:27:54  [ main:9751 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: input.yx-cp-searchInput
+2021-03-04 22:27:55  [ main:10813 ] - [ INFO ]  测试步骤: 输入搜索框 成功！
+2021-03-04 22:27:55  [ main:10816 ] - [ INFO ]  当前测试步骤: 确认搜索
+2021-03-04 22:27:55  [ main:10818 ] - [ INFO ]  执行测试步骤  识别方式: span.yx-cp-searchButtonName; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 22:27:55  [ main:10818 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: span.yx-cp-searchButtonName
+2021-03-04 22:27:58  [ main:13597 ] - [ INFO ]  测试步骤: 确认搜索 成功！
+2021-03-04 22:27:58  [ main:13598 ] - [ INFO ]  当前测试步骤: 单击第一件商品
+2021-03-04 22:27:58  [ main:13598 ] - [ INFO ]  执行测试步骤  识别方式: div.m-product > div.bd > h4.name > a; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 22:27:58  [ main:13599 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.m-product > div.bd > h4.name > a
+2021-03-04 22:27:58  [ main:14136 ] - [ INFO ]  测试步骤: 单击第一件商品 成功！
+2021-03-04 22:27:58  [ main:14138 ] - [ INFO ]  当前测试步骤: 切换窗口
+2021-03-04 22:27:58  [ main:14143 ] - [ INFO ]  执行测试步骤  识别方式: null; 操作: switchWindow; 测试数据: 1
+属于测试用例: collect
+2021-03-04 22:27:58  [ main:14218 ] - [ INFO ]  测试步骤: 切换窗口 成功！
+2021-03-04 22:27:58  [ main:14219 ] - [ INFO ]  当前测试步骤: 点击购物车
+2021-03-04 22:27:58  [ main:14220 ] - [ INFO ]  执行测试步骤  识别方式: a.w-button-ghost; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 22:27:58  [ main:14220 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: a.w-button-ghost
+2021-03-04 22:28:03  [ main:19395 ] - [ INFO ]  测试步骤: 点击购物车 成功！
+2021-03-04 22:28:03  [ main:19399 ] - [ INFO ]  测试用例: collect 执行成功！
+2021-03-04 23:41:12  [ main:0 ] - [ INFO ]  ----------测试用例开始执行----------
+2021-03-04 23:41:22  [ main:10374 ] - [ INFO ]  文件 AllTestCase.xlsx 中，总的测试用例数：2
+2021-03-04 23:41:22  [ main:10389 ] - [ INFO ]  测试用例: share 暂无需运行
+2021-03-04 23:41:22  [ main:10392 ] - [ INFO ]  运行测试用例: collect; 测试用例的详细信息: 完成商品的收藏及取消，在未登录的情况下，应跳转到登陆页面，在登陆的情况，可以正常收藏并取消
+2021-03-04 23:41:22  [ main:10394 ] - [ INFO ]  测试用例: collect, 总测试步骤数为: 17
+2021-03-04 23:41:22  [ main:10396 ] - [ INFO ]  当前测试步骤: 输入搜索框
+2021-03-04 23:41:22  [ main:10407 ] - [ INFO ]  执行测试步骤  识别方式: input.yx-cp-searchInput; 操作: input; 测试数据: 黑猪肉香肠
+属于测试用例: collect
+2021-03-04 23:41:22  [ main:10407 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: input.yx-cp-searchInput
+2021-03-04 23:41:23  [ main:11626 ] - [ INFO ]  测试步骤: 输入搜索框 成功！
+2021-03-04 23:41:23  [ main:11628 ] - [ INFO ]  当前测试步骤: 确认搜索
+2021-03-04 23:41:23  [ main:11630 ] - [ INFO ]  执行测试步骤  识别方式: span.yx-cp-searchButtonName; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:41:23  [ main:11630 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: span.yx-cp-searchButtonName
+2021-03-04 23:41:26  [ main:14048 ] - [ INFO ]  测试步骤: 确认搜索 成功！
+2021-03-04 23:41:26  [ main:14049 ] - [ INFO ]  当前测试步骤: 单击第一件商品
+2021-03-04 23:41:26  [ main:14049 ] - [ INFO ]  执行测试步骤  识别方式: div.m-product > div.bd > h4.name > a; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:41:26  [ main:14050 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.m-product > div.bd > h4.name > a
+2021-03-04 23:41:27  [ main:14949 ] - [ INFO ]  测试步骤: 单击第一件商品 成功！
+2021-03-04 23:41:27  [ main:14950 ] - [ INFO ]  当前测试步骤: 切换窗口
+2021-03-04 23:41:27  [ main:14950 ] - [ INFO ]  执行测试步骤  识别方式: null; 操作: switchWindow; 测试数据: 1
+属于测试用例: collect
+2021-03-04 23:41:27  [ main:15040 ] - [ INFO ]  测试步骤: 切换窗口 成功！
+2021-03-04 23:41:27  [ main:15041 ] - [ INFO ]  当前测试步骤: 点击购物车
+2021-03-04 23:41:27  [ main:15041 ] - [ INFO ]  执行测试步骤  识别方式: a.w-button-ghost; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:41:27  [ main:15041 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: a.w-button-ghost
+2021-03-04 23:41:32  [ main:20341 ] - [ INFO ]  测试步骤: 点击购物车 成功！
+2021-03-04 23:41:32  [ main:20345 ] - [ INFO ]  当前测试步骤: 验证是否收藏
+2021-03-04 23:41:32  [ main:20348 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: selectedVerfity; 测试数据: FALSE
+属于测试用例: collect
+2021-03-04 23:41:32  [ main:20348 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
+2021-03-04 23:41:32  [ main:20416 ] - [ INFO ]  测试步骤: 验证是否收藏 成功！
+2021-03-04 23:41:32  [ main:20418 ] - [ INFO ]  当前测试步骤: 单击收藏
+2021-03-04 23:41:32  [ main:20419 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:41:32  [ main:20419 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
+2021-03-04 23:41:35  [ main:23808 ] - [ INFO ]  测试步骤: 单击收藏 成功！
+2021-03-04 23:41:35  [ main:23810 ] - [ INFO ]  当前测试步骤: 切换到登陆frame
+2021-03-04 23:41:35  [ main:23811 ] - [ INFO ]  执行测试步骤  识别方式: //*[@id='j-yx-mobileLoginWrap']/iframe; 操作: switchFrame; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:41:35  [ main:23811 ] - [ INFO ]  依据 xpath 查找控件，定位信息: //*[@id='j-yx-mobileLoginWrap']/iframe
+2021-03-04 23:41:35  [ main:23864 ] - [ INFO ]  当前测试步骤: 切换登录方式
+2021-03-04 23:41:35  [ main:23865 ] - [ INFO ]  执行测试步骤  识别方式: a.tab0; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:41:35  [ main:23865 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: a.tab0
+2021-03-04 23:41:46  [ main:34127 ] - [ INFO ]  控件未出现
+2021-03-04 23:41:46  [ main:34178 ] - [ INFO ]  当前测试步骤: 输入手机号
+2021-03-04 23:41:46  [ main:34179 ] - [ INFO ]  执行测试步骤  识别方式: phoneipt; 操作: input; 测试数据: 15806284945
+属于测试用例: collect
+2021-03-04 23:41:46  [ main:34180 ] - [ INFO ]  依据 id 查找控件，定位信息: phoneipt
+2021-03-04 23:51:45  [ main:0 ] - [ INFO ]  ----------测试用例开始执行----------
+2021-03-04 23:51:55  [ main:10302 ] - [ INFO ]  文件 AllTestCase.xlsx 中，总的测试用例数：2
+2021-03-04 23:51:55  [ main:10317 ] - [ INFO ]  测试用例: share 暂无需运行
+2021-03-04 23:51:55  [ main:10318 ] - [ INFO ]  运行测试用例: collect; 测试用例的详细信息: 完成商品的收藏及取消，在未登录的情况下，应跳转到登陆页面，在登陆的情况，可以正常收藏并取消
+2021-03-04 23:51:55  [ main:10319 ] - [ INFO ]  测试用例: collect, 总测试步骤数为: 17
+2021-03-04 23:51:55  [ main:10323 ] - [ INFO ]  当前测试步骤: 输入搜索框
+2021-03-04 23:51:55  [ main:10336 ] - [ INFO ]  执行测试步骤  识别方式: input.yx-cp-searchInput; 操作: input; 测试数据: 黑猪肉香肠
+属于测试用例: collect
+2021-03-04 23:51:56  [ main:10337 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: input.yx-cp-searchInput
+2021-03-04 23:51:57  [ main:11519 ] - [ INFO ]  测试步骤: 输入搜索框 成功！
+2021-03-04 23:51:57  [ main:11522 ] - [ INFO ]  当前测试步骤: 确认搜索
+2021-03-04 23:51:57  [ main:11524 ] - [ INFO ]  执行测试步骤  识别方式: span.yx-cp-searchButtonName; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:51:57  [ main:11525 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: span.yx-cp-searchButtonName
+2021-03-04 23:51:59  [ main:14318 ] - [ INFO ]  测试步骤: 确认搜索 成功！
+2021-03-04 23:51:59  [ main:14320 ] - [ INFO ]  当前测试步骤: 单击第一件商品
+2021-03-04 23:51:59  [ main:14320 ] - [ INFO ]  执行测试步骤  识别方式: div.m-product > div.bd > h4.name > a; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:51:59  [ main:14320 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.m-product > div.bd > h4.name > a
+2021-03-04 23:52:00  [ main:14878 ] - [ INFO ]  测试步骤: 单击第一件商品 成功！
+2021-03-04 23:52:00  [ main:14878 ] - [ INFO ]  当前测试步骤: 切换窗口
+2021-03-04 23:52:00  [ main:14879 ] - [ INFO ]  执行测试步骤  识别方式: null; 操作: switchWindow; 测试数据: 1
+属于测试用例: collect
+2021-03-04 23:52:00  [ main:14965 ] - [ INFO ]  测试步骤: 切换窗口 成功！
+2021-03-04 23:52:00  [ main:14966 ] - [ INFO ]  当前测试步骤: 点击购物车
+2021-03-04 23:52:00  [ main:14966 ] - [ INFO ]  执行测试步骤  识别方式: a.w-button-ghost; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:52:00  [ main:14967 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: a.w-button-ghost
+2021-03-04 23:52:05  [ main:20313 ] - [ INFO ]  测试步骤: 点击购物车 成功！
+2021-03-04 23:52:05  [ main:20317 ] - [ INFO ]  当前测试步骤: 验证是否收藏
+2021-03-04 23:52:05  [ main:20317 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: selectedVerfity; 测试数据: FALSE
+属于测试用例: collect
+2021-03-04 23:52:05  [ main:20318 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
+2021-03-04 23:52:06  [ main:20386 ] - [ INFO ]  测试步骤: 验证是否收藏 成功！
+2021-03-04 23:52:06  [ main:20388 ] - [ INFO ]  当前测试步骤: 单击收藏
+2021-03-04 23:52:06  [ main:20388 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:52:06  [ main:20388 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
+2021-03-04 23:52:09  [ main:23965 ] - [ INFO ]  测试步骤: 单击收藏 成功！
+2021-03-04 23:52:09  [ main:23967 ] - [ INFO ]  当前测试步骤: 切换到登陆frame
+2021-03-04 23:52:09  [ main:23967 ] - [ INFO ]  执行测试步骤  识别方式: //*[@id='j-yx-mobileLoginWrap']/iframe; 操作: switchFrame; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:52:09  [ main:23967 ] - [ INFO ]  依据 xpath 查找控件，定位信息: //*[@id='j-yx-mobileLoginWrap']/iframe
+2021-03-04 23:52:09  [ main:24023 ] - [ INFO ]  当前测试步骤: 切换登录方式
+2021-03-04 23:52:09  [ main:24024 ] - [ INFO ]  执行测试步骤  识别方式: a.tab0; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:52:09  [ main:24024 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: a.tab0
+2021-03-04 23:52:19  [ main:34239 ] - [ INFO ]  控件未出现
+2021-03-04 23:52:19  [ main:34296 ] - [ INFO ]  当前测试步骤: 输入手机号
+2021-03-04 23:52:19  [ main:34300 ] - [ INFO ]  执行测试步骤  识别方式: phoneipt; 操作: input; 测试数据: 15806284945
+属于测试用例: collect
+2021-03-04 23:52:19  [ main:34301 ] - [ INFO ]  依据 id 查找控件，定位信息: phoneipt
+2021-03-04 23:52:30  [ main:44751 ] - [ INFO ]  控件未出现
+2021-03-04 23:52:30  [ main:44781 ] - [ INFO ]  当前测试步骤: 输入密码
+2021-03-04 23:52:30  [ main:44782 ] - [ INFO ]  执行测试步骤  识别方式: input[autocomplete=new-password]; 操作: input; 测试数据: 710662952lyf
+属于测试用例: collect
+2021-03-04 23:52:30  [ main:44782 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: input[autocomplete=new-password]
+2021-03-04 23:52:40  [ main:55266 ] - [ INFO ]  控件未出现
+2021-03-04 23:52:40  [ main:55325 ] - [ INFO ]  当前测试步骤: 点击确认登陆
+2021-03-04 23:52:40  [ main:55325 ] - [ INFO ]  执行测试步骤  识别方式: a.u-loginbtn.btncolor.tabfocus; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:52:40  [ main:55325 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: a.u-loginbtn.btncolor.tabfocus
+2021-03-04 23:52:51  [ main:65751 ] - [ INFO ]  控件未出现
+2021-03-04 23:52:51  [ main:65811 ] - [ INFO ]  当前测试步骤: 验证是否收藏成功
+2021-03-04 23:52:51  [ main:65812 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: selectedVerfity; 测试数据: TRUE
+属于测试用例: collect
+2021-03-04 23:52:51  [ main:65813 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
+2021-03-04 23:52:51  [ main:65823 ] - [ INFO ]  当前测试步骤: 取消收藏
+2021-03-04 23:52:51  [ main:65824 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:52:51  [ main:65824 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
+2021-03-04 23:52:51  [ main:65831 ] - [ INFO ]  当前测试步骤: 验证是否取消收藏
+2021-03-04 23:52:51  [ main:65834 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: selectedVerfity; 测试数据: FALSE
+属于测试用例: collect
+2021-03-04 23:52:51  [ main:65834 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
+2021-03-04 23:52:51  [ main:65841 ] - [ INFO ]  当前测试步骤: 点击收藏
+2021-03-04 23:52:51  [ main:65842 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: click; 测试数据: null
+属于测试用例: collect
+2021-03-04 23:52:51  [ main:65842 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
+2021-03-04 23:52:51  [ main:65849 ] - [ INFO ]  当前测试步骤: 验证是否收藏成功
+2021-03-04 23:52:51  [ main:65850 ] - [ INFO ]  执行测试步骤  识别方式: div.w-collectZone; 操作: selectedVerfity; 测试数据: TRUE
+属于测试用例: collect
+2021-03-04 23:52:51  [ main:65850 ] - [ INFO ]  依据 cssSelector 查找控件，定位信息: div.w-collectZone
