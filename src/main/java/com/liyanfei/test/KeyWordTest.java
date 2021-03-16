@@ -10,7 +10,6 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 public class KeyWordTest extends SeleniumBase {
@@ -27,6 +26,10 @@ public class KeyWordTest extends SeleniumBase {
     public static Method method[];
 
 
+    /**
+     * 根据测试用例文件中给定的测试用例及步骤进行测试
+     * @throws Exception
+     */
     @Test
     public void keyWordTest() throws Exception {
         try {
@@ -144,13 +147,17 @@ public class KeyWordTest extends SeleniumBase {
         }
     }
 
-
+    /**
+     * 找到当前测试步骤需要执行的方法进行执行
+     * @param testCaseName 测试用例名称
+     * @param testCaseStep 测试用例步骤
+     * @throws Exception
+     */
     public void executeAction(String testCaseName, int testCaseStep) throws Exception {
         myActions = new MyActions(getDriver());
         method = myActions.getClass().getMethods();
         for (int i = 0; i < method.length; i++) {
             // 找到需要执行的方法，执行
-            // 安卓 确认搜索
             if (method[i].getName().toLowerCase().equals(actionStep.toLowerCase())) {
                 System.out.println(actionStep);
                 try {

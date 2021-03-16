@@ -6,20 +6,26 @@ public class Settings {
 
     public static String testUrl = "http://you.163.com/";
 
+    /**
+     * 元素控制的相关信息
+     */
     public static class elementControl {
         public static final int elementWaitTime = 10;
-        public static final int elementInspectCount = 3;   // 控件识别次数
         public static final int elementInspectInterval = 200;  //  控件识别间隔时间
     }
 
-
-    public static class userInfo {
-        public static String username = "15806284945";
-        public static String password = "710662952lyf";
+    /**
+     * 登陆数据文件相关信息
+     */
+    public static class loginData {
+        public static String dir = System.getProperty("user.dir") + File.separator +"data";
+        public static String file = "loginData.xlsx";
+        public static String sheetName = "login";
     }
 
-
-
+    /**
+     * 测试用例文件相关信息
+     */
     public static class testCaseFile {
         public static String dir = System.getProperty("user.dir") + File.separator +"data";
         public static String file = "AllTestCase.xlsx";

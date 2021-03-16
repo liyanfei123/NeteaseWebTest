@@ -28,6 +28,7 @@ public class FindElement {
         WebElement element;
         locatedType = locatedType.toLowerCase();
         try {
+            // 根据传入的定位方式，选择调用不同的定位方法
             switch (locatedType) {
                 case "id":
                     element = WaitMostSeconds(driver, By.id(locatedInfo));
@@ -64,8 +65,8 @@ public class FindElement {
      */
     public static List<WebElement> findElementsByType(WebDriver driver,
                                  String locatedType, String locatedInfo) throws NoSuchElementException {
-        // 判断是否有该元素出现
         try {
+            // 判断是否有该元素出现
             findElementByType(driver, locatedType, locatedInfo);
             List<WebElement> elements = new ArrayList<>();
             locatedType = locatedType.toLowerCase();
